@@ -1,4 +1,4 @@
 Node es el  core
 npm es el equivalente maven
 node solo lleva al repel
-	ctrl + C ctrl + C parara salir del modo consoa 
+	ctrl + C ctrl + C parara salir del modo consola 
