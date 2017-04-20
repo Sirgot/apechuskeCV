@@ -29,5 +29,12 @@ server.listen(8080, function () {
     console.log(" El servidor tiene una miaja de apechusque")
 });
 
+// Tyring to import Angular
+import { Component } from '@angular/core';
 
+@Component({
+    selector: 'my-app',
+    template: `<h1>Hello {{name}}</h1>`
+})
+export class AppComponent { name = 'Angular'; }
 
